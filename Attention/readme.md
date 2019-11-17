@@ -91,6 +91,11 @@ Attention is all you need，没有用到CNN/RNN，乍一听也是一股清流了
 https://zhuanlan.zhihu.com/p/44031466
 
 DANet, CVPR2019 而 CBAM 特别轻量级，也方便在端部署
+https://zhuanlan.zhihu.com/p/77834369
+https://zhuanlan.zhihu.com/p/54150694
+
+CBAM 效果差 参考评论https://zhuanlan.zhihu.com/p/54150694
+
 ### segmentation
 https://github.com/ozan-oktay/Attention-Gated-Networks
 https://github.com/Jongchan/attention-module PyTorch code for "BAM: Bottleneck Attention Module (BMVC2018)" and "CBAM: Convolutional Block Attention Module (ECCV2018)" 
@@ -98,6 +103,7 @@ https://github.com/speedinghzl/CCNet
 https://github.com/junfu1115/DANet
 https://github.com/LeeJunHyun/Image_Segmentation
 https://github.com/HolmesShuan/Location-aware-Upsampling-for-Semantic-Segmentation
+https://tongtianta.site/paper/66752 Location-aware Upsampling for Semantic Segmentation
 https://github.com/kevinzakka/recurrent-visual-attention
 https://github.com/JaveyWang/Pyramid-Attention-Networks-pytorch
 https://github.com/bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets

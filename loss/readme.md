@@ -1,0 +1,1 @@
+https://tongtianta.site/paper/65498 Content and Colour Distillation for Learning Image Translations with the Spatial Profile Loss
