@@ -15,3 +15,34 @@ https://www.youtube.com/watch?v=arMoli91OZE&list=PLFze15KrfxbF0n1zTNoFIaDpxnSyfg
 https://github.com/Sission/Coupled-VAE-Improved-Robustness-and-Accuracy-of-a-Variational-Autoencoder
 
 https://github.com/ArnaudFickinger/BAVAE
+https://arxiv.org/abs/1902.03517
+
+
+https://github.com/YannDubs/disentangling-vae 
+
+https://github.com/ZhilZheng/Lr-LiVAE
+https://zpascal.net/cvpr2019/Zheng_Disentangling_Latent_Space_for_VAE_by_Label_RelevantIrrelevant_Dimensions_CVPR_2019_paper.pdf
+https://tongtianta.site/paper/67041
+
+https://github.com/1Konny/FactorVAE
+https://github.com/1Konny/WAE-pytorch
+https://github.com/1Konny/Beta-VAE
+https://github.com/1Konny/EBGAN-pytorch
+https://github.com/1Konny/VIB-pytorch
+
+
+https://github.com/ArnaudFickinger/Attention_VAE
+
+
+https://github.com/ArnaudFickinger/AGPPVAE
+https://arxiv.org/pdf/1810.11738.pdf Gaussian Process Prior Variational Autoencoders
+
+
+
+https://github.com/daib13/TwoStageVAE
+
+
+https://github.com/Schlumberger/joint-vae
+https://github.com/YannDubs/disentangling-vae
+
+https://github.com/ananyahjha93/cycle-consistent-vae
