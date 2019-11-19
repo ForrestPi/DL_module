@@ -39,10 +39,13 @@ https://arxiv.org/pdf/1810.11738.pdf Gaussian Process Prior Variational Autoenco
 
 
 
-https://github.com/daib13/TwoStageVAE
+https://github.com/daib13/TwoStageVAE  增强生成能力
 
 
 https://github.com/Schlumberger/joint-vae
 https://github.com/YannDubs/disentangling-vae
 
 https://github.com/ananyahjha93/cycle-consistent-vae
+
+
+https://github.com/rohithreddy024/VAE-GAN-Pytorch
