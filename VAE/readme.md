@@ -49,3 +49,6 @@ https://github.com/ananyahjha93/cycle-consistent-vae
 
 
 https://github.com/rohithreddy024/VAE-GAN-Pytorch
+
+
+https://github.com/can-song/VAE-SSIM

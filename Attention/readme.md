@@ -96,6 +96,12 @@ https://zhuanlan.zhihu.com/p/54150694
 
 CBAM 效果差 参考评论https://zhuanlan.zhihu.com/p/54150694
 
+
+### module
+https://github.com/HolmesShuan/Compact-Global-Descriptor 一个通用的轻量级全局描述符系列，用于对不同维度（例如通道，帧）之间的位置之间的交互进行建模
+
+
+
 ### segmentation
 https://github.com/ozan-oktay/Attention-Gated-Networks
 https://github.com/Jongchan/attention-module PyTorch code for "BAM: Bottleneck Attention Module (BMVC2018)" and "CBAM: Convolutional Block Attention Module (ECCV2018)" 
