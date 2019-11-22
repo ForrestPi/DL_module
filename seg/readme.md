@@ -11,3 +11,6 @@ https://github.com/HolmesShuan/Location-aware-Upsampling-for-Semantic-Segmentati
 
 
 https://github.com/DingXiaoH/ACNet 
+
+
+https://github.com/StevenGrove/TreeFilter-Torch  Learnable Tree Filter for Structure-preserving Feature Transform

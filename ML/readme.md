@@ -1,0 +1,1 @@
+https://blog.csdn.net/Dark_Scope/article/details/53150883  从PCA和SVD的关系拾遗
